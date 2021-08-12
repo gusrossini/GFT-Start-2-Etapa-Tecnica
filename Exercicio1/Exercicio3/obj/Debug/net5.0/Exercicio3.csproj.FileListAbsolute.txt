@@ -1,0 +1,16 @@
+C:\DEV\GFT_START_2\Exercicio1\Exercicio3\bin\Debug\net5.0\Exercicio3.exe
+C:\DEV\GFT_START_2\Exercicio1\Exercicio3\bin\Debug\net5.0\Exercicio3.deps.json
+C:\DEV\GFT_START_2\Exercicio1\Exercicio3\bin\Debug\net5.0\Exercicio3.runtimeconfig.json
+C:\DEV\GFT_START_2\Exercicio1\Exercicio3\bin\Debug\net5.0\Exercicio3.runtimeconfig.dev.json
+C:\DEV\GFT_START_2\Exercicio1\Exercicio3\bin\Debug\net5.0\Exercicio3.dll
+C:\DEV\GFT_START_2\Exercicio1\Exercicio3\bin\Debug\net5.0\ref\Exercicio3.dll
+C:\DEV\GFT_START_2\Exercicio1\Exercicio3\bin\Debug\net5.0\Exercicio3.pdb
+C:\DEV\GFT_START_2\Exercicio1\Exercicio3\obj\Debug\net5.0\Exercicio3.csproj.AssemblyReference.cache
+C:\DEV\GFT_START_2\Exercicio1\Exercicio3\obj\Debug\net5.0\Exercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\GFT_START_2\Exercicio1\Exercicio3\obj\Debug\net5.0\Exercicio3.AssemblyInfoInputs.cache
+C:\DEV\GFT_START_2\Exercicio1\Exercicio3\obj\Debug\net5.0\Exercicio3.AssemblyInfo.cs
+C:\DEV\GFT_START_2\Exercicio1\Exercicio3\obj\Debug\net5.0\Exercicio3.csproj.CoreCompileInputs.cache
+C:\DEV\GFT_START_2\Exercicio1\Exercicio3\obj\Debug\net5.0\Exercicio3.dll
+C:\DEV\GFT_START_2\Exercicio1\Exercicio3\obj\Debug\net5.0\ref\Exercicio3.dll
+C:\DEV\GFT_START_2\Exercicio1\Exercicio3\obj\Debug\net5.0\Exercicio3.pdb
+C:\DEV\GFT_START_2\Exercicio1\Exercicio3\obj\Debug\net5.0\Exercicio3.genruntimeconfig.cache
